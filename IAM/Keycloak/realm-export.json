@@ -1,0 +1,15 @@
+{
+    "realm": "fox-realm",
+    "enabled": true,
+    "clients": [],
+    "roles": {
+        "realm": [
+            {
+                "name": "user",
+                "composite": false,
+                "clientRole": false,
+                "description": "User role"
+            }
+        ]
+    }
+}
