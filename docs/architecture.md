@@ -2,6 +2,7 @@
 
 ## Diagramme de l'architecture
 
+```
 secure-app-framework/  
 │ ├── SAST/ # Analyse de code statique  
 │ ├── SonarQube/ # Outil d'analyse de code  
@@ -17,6 +18,7 @@ secure-app-framework/
 │     └── ELK/ # Collecte et analyse des logs  
 │     └── SOAR/ # Orchestration et automatisation des réponses  
       └── Apache NiFi/ # Automatisation des flux de données  
+```
 
 ## Description des composants
 1. **SAST**: Analyse de code avec SonarQube et ESLint.
